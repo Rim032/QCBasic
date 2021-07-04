@@ -44,6 +44,7 @@ the default console app GUI, sorry :(.
 You may contact me on Steam if you have any bugs, issues or questions. PLEASE
 leave a comment if your trying to contact me on steam about QCBasic because
 I do not accept random friend request's without a comment first, sorry.
+
 ===============================================================================
 
 --|Build Versions|--
