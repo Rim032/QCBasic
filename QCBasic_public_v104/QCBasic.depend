@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1625412535 source:c:\users\nkg20\onedrive\documents\c projects (coding)\qcbasic\main.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1625408909 source:c:\users\nkg20\onedrive\documents\c projects (coding)\qcbasic\resource.rc
+
