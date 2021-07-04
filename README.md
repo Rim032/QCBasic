@@ -47,7 +47,11 @@ You may contact me on Discord if there are any issues or bugs, Rim#4872
 --|Build Versions|--
 
 1.0.0 - 7/3/21 - Alpha Version #1 - Distributed to a few people for testing.
+
 1.0.1 - 7/3/21 - Beta Version #1 - More features, cleaner and easier to use.
+
 1.0.2 - 7/3/21 - Beta Version #2 - Bug fixes, polishing.
+
 1.0.3 - 7/4/21 - Beta Version #3 - Visual improvements, general improvements.
+
 1.0.4 - 7/4/21 - Public Version #1 - More features, bug fixes. (First public release)
