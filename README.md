@@ -50,7 +50,7 @@ You may contact me on Discord if there are any issues or bugs, Rim#4872
 
 ![qcbasic_s2](https://user-images.githubusercontent.com/45215785/124393718-c9604980-dcc9-11eb-8e66-b5f720818160.PNG)
 
-===============================================================================
+============================================================================
 
 --|Build Versions|--
 
