@@ -13,8 +13,8 @@ A simple program that allows modellers to create QC files using this program, th
 --Program Notes--
 
 Thanks for installing my program if you have, I will later add more features. 
-This is my first public program, this program isn't meant to have a ton of 
-features right now.
+This is my first public program, this program isn't meant to have almost every single QC
+parameter in it right now.
 
 You can put the folder of the project anywhere, DO NOT change or modify 
 internal files of the program because you might break them. DO NOT DELETE 
