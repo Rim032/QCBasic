@@ -28,7 +28,7 @@ The QC file will start as "untilted.qc", you will have to rename
 the file to whatever you desire. The QC file will be outputed in 
 QCBasic->bin->debug(Also the location of the exe) and sometimes in the QCBasic base folder.
 
-All you have to do is run the exe found within QCBasic->bin->debug.
+All you have to do is run the exe found within QCBasic->bin->release.
 It is recommended to know stuff about how QC files are setup to
 fully utilize this program. Helpful link to learn: https://developer.valvesoftware.com/wiki/QC
 
