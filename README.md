@@ -63,3 +63,5 @@ You may contact me on Discord if there are any issues or bugs, Rim#4872
 1.0.3 - 7/4/21 - Beta Version #3 - Visual improvements, general improvements.
 
 1.0.4 - 7/4/21 - Public Version #1 - More features, bug fixes. (First public release)
+
+1.0.5 - 7/5/21 - Public Version #2 - Small bug fixes.
