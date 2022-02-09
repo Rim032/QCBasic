@@ -42,10 +42,6 @@ I planned on making this look good visually using the GTK 3 library for C but
 I haven't got the library to work with Codeblocks properly, so I am just using
 the default console app GUI, sorry :(.
 
---Contact Info--
-
-You may contact me on Discord if there are any issues or bugs, Rim#4872
-
 ============================================================================
 
 ![qcbasic_s3](https://user-images.githubusercontent.com/45215785/124393716-c9604980-dcc9-11eb-8716-4dd39ad4762a.PNG)
